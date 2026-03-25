@@ -228,8 +228,6 @@ http://localhost:5000/api
 | `POST` | `/messages` | Send a new message |
 | `GET` | `/messages/stream` | Stream messages in real-time |
 
-> **Note:** Update this section with your actual API endpoints from `app.py`
-
 ## 🧩 Component Architecture
 
 ### Frontend Components
